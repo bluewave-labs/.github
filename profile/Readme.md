@@ -5,7 +5,7 @@ At BlueWave Labs, we're not just a company; we're a dynamic force driving techno
 
 ## What we are working on
 
-There are 4 open source projects we are building.
+There are 5 open source projects we are building.
 
 * **BlueWave HRM**: A tool to automate routine administrative tasks such as payroll processing, benefits administration, time and attendance tracking and employee onboarding/offboarding.
 * **BlueWave Onboarding**: An in-app tutorial platform that guides new users through an app or a tool’s user interface and key features. It features product tours, checklists, tutorials, or tooltips, which will help companies simplify their user onboarding process.
