@@ -5,11 +5,11 @@ At BlueWave Labs, we bring together a diverse team of brilliant minds —softwar
 
 # Mission statement 
 
-At BlueWave Labs, our mission is to support the creation of open-source software that helps businesses and people. We focus on B2B/SaaS projects using JavaScript, Node.js, PostgreSQL, and MongoDB. By bringing together developers and organizations, we aim to build high-quality software that benefits everyone.
+At BlueWave Labs, our mission is to support the creation of open-source software that helps businesses and people. We focus on B2B/SaaS projects using JavaScript, Node.js, PostgreSQL, and MongoDB. By bringing together developers and organizations in need to incubate their applications, we aim to build high-quality software that benefits everyone.
 
 # Our vision 
 
-We want to be a leading foundation for open-source B2B/SaaS software, where great ideas become real products that make a difference. Our goal is to create a community where developers and organizations work together to build software that is open, accessible, and helpful to people everywhere. BlueWave Labs is committed to ensuring that all our projects meet high standards of quality and ethics.
+We want to be a leading foundation for open-source B2B/SaaS software, where great ideas become real products that make a difference. Our goal is to create a community where developers and organizations work together to build software that is open, accessible, and helpful to people everywhere. 
 
 # What we are working on
 
