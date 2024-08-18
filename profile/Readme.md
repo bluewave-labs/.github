@@ -25,7 +25,7 @@ Are you a developer or part of an organization that wants to create software for
 
 # How to join
 
-If you want your project to be part of BlueWave Labs, or if you want to contribute to existing projects, you can apply on our website. Once accepted, you’ll get support from our community of developers and access to resources to help your project succeed. Whether you want to start something new or join an ongoing project, BlueWave Labs is the place to make a positive impact through software.
+If you want your project to be incubated and to be a part of BlueWave Labs, or if you want to contribute to existing projects, you can apply on our website. Once accepted, you’ll get support from our community of developers and access to resources to help your project succeed. Whether you want to start something new or join an ongoing project, BlueWave Labs is the place to make a positive impact through software.
 
 Come and help us build software that benefits everyone, driven by collaboration and community.
 
