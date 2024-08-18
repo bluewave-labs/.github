@@ -1,7 +1,9 @@
 
 # BlueWave Labs
 
-At BlueWave Labs, we're not just a company; we're a dynamic force driving technological evolution. We bring together a diverse team of brilliant minds—software developers, UI/UX experts, mobile app developers, and visionary product managers—passionate about crafting cutting-edge solutions that redefine industries.
+At BlueWave Labs, we bring together a diverse team of brilliant minds —software developers, UI/UX experts, mobile app developers, and visionary product managers—passionate about crafting cutting-edge solutions that redefine industries.
+
+BlueWave Labs also incubates open source software. In case you want your B2B/SaaS application to be developed collaboratively with the help of BlueWave Labs, drop us a note at hello@bluewavelabs.ca.
 
 ## What we are working on
 
