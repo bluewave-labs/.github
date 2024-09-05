@@ -20,7 +20,7 @@ There are 6 open source projects we are building.
 * **[BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime)**: *(released)* An automated way of checking whether a service such as a website or an application is available. When service goes down during an outage (downtime), the application spots the issue and alerts the right person on the development team.
 * **[BlueWave DataRoom](https://github.com/bluewave-labs/bluewave-dataroom)**: *(development started)* A secure space where confidential documents can be kept and only read by people authorized to access them. 
 * **[BlueWave ChatFabrica](https://github.com/bluewave-labs/bluewave-chatfabrica)**: *(released)* This AI-powered app learns your knowledgebase by scanning web pages and PDFs. You can then easily integrate it into your website and immediately use your customer support chatbot.
-* **[BlueWave TrustCenter](https://github.com/bluewave-labs/bluewave-trustcenter)**: *(design stage)* Platform that automates security assessments, showcasing compliance measures to prospective clients during sales.
+* **[VerifyWise](https://github.com/bluewave-labs/verifywise)**: *(design stage)* An open-source AI governance platform designed to help businesses manage the power of artificial intelligence safely and responsibly. 
 
 Are you a developer or part of an organization that wants to create software for the greater good? Join BlueWave Labs! We’re looking for projects to support and developers to contribute. All our projects are open-source and free for everyone to use, licensed under AGPLv3.
 
