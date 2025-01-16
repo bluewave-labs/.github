@@ -15,7 +15,7 @@ We want to be a leading foundation for open-source B2B/SaaS software, where grea
 
 There are 5 open source projects we are building.
 
-* **[BlueWave HRM](https://github.com/bluewave-labs/bluewave-hrm)**: *(development ongoing)* A tool to automate routine administrative tasks such as payroll processing, benefits administration, time and attendance tracking and employee onboarding/offboarding.
+* **[Headcount](https://github.com/bluewave-labs/headcount)**: *(development ongoing)* A tool to automate routine administrative tasks such as payroll processing, benefits administration, time and attendance tracking and employee onboarding/offboarding.
 * **[Guidefox](https://github.com/bluewave-labs/guidefox)** *(development ongoing)* : An in-app tutorial platform that guides new users through an app or a tool’s user interface and key features. It features product tours, checklists, tutorials, or tooltips, which will help companies simplify their user onboarding process. [homepage](https://guidefox.io/)
 * **[Checkmate](https://github.com/bluewave-labs/checkmate)**: *(released)* An automated way of checking whether a service such as a website or an application is available. When service goes down during an outage (downtime), the application spots the issue and alerts the right person on the development team. [homepage](https://checkmate.so/)
 * **[BlueWave DataRoom](https://github.com/bluewave-labs/bluewave-dataroom)**: *(development started)* A secure space where confidential documents can be kept and only read by people authorized to access them. 
