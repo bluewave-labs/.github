@@ -21,7 +21,7 @@ There are 5 open source projects we are building.
 * **[Headcount](https://github.com/bluewave-labs/headcount)**: *(development ongoing)* A tool to automate routine administrative tasks such as payroll processing, benefits administration, time and attendance tracking and employee onboarding/offboarding.
 * **[Guidefox](https://github.com/bluewave-labs/guidefox)** *(released)* : An in-app tutorial platform that guides new users through an app or a tool’s user interface and key features. It features product tours, checklists, tutorials, or tooltips, which will help companies simplify their user onboarding process. [homepage](https://guidefox.io/)
 * **[Datahall](https://github.com/bluewave-labs/datahall)**: *(alpha version released)* A secure space where confidential documents can be kept and only read by people authorized to access them.
-* **[RockScraper](https://github.com/bluewave-labs/rockscraper) *(planning started)* A DePIN and AI powered web scraping platform.
+* **[RockScraper](https://github.com/bluewave-labs/rockscraper)** *(planning started)* A DePIN and AI powered web scraping platform.
 
 Are you a developer or part of an organization that wants to create software for the greater good? Join BlueWave Labs! We’re looking for projects to support and developers to contribute. All our projects are open-source and free for everyone to use, licensed under AGPLv3.
 
