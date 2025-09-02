@@ -13,10 +13,14 @@ We want to be a leading foundation for open-source B2B/SaaS software, where grea
 
 # What we are working on
 
-There are 5 open source projects we are building.
-
-* **[VerifyWise](https://github.com/bluewave-labs/verifywise)**: *(development ongoing)* An open-source AI governance platform designed to help businesses manage the power of artificial intelligence safely and responsibly. [homepage](https://verifywise.ai/)
+* **[VerifyWise](https://github.com/bluewave-labs/verifywise)**: *(released)* An open-source AI governance platform designed to help businesses manage the power of artificial intelligence safely and responsibly. [homepage](https://verifywise.ai/)
 * **[Checkmate](https://github.com/bluewave-labs/checkmate)**: *(released)* An automated way of checking whether a service such as a website or an application is available. When service goes down during an outage (downtime), the application spots the issue and alerts the right person on the development team. [homepage](https://checkmate.so/)
+* **[Maskwise](https://github.com/bluewave-labs/maskwise)**: *(released)* Maskwise detects, redacts, masks, and anonymizes sensitive data across text, images, and structured data in training datasets for LLM systems.
+* **[Flagwise](https://github.com/bluewave-labs/flagwise)**: *(released)* Monitor, detect, and analyze security threats and Shadow AI in your LLM applications with comprehensive analytics and real-time alerting.
+* **[Evalwise](https://github.com/bluewave-labs/evalwise)**: *(development ongoing)* A developer-friendly platform for LLM evaluation and red teaming that helps test AI models for
+  safety, compliance, and performance issues.
+
+### Graduated projects: 
 * **[Guidefox](https://github.com/bluewave-labs/guidefox)** *(released)* : An in-app tutorial platform that guides new users through an app or a tool’s user interface and key features. It features product tours, checklists, tutorials, or tooltips, which will help companies simplify their user onboarding process. [homepage](https://guidefox.io/)
 * **[Datahall](https://github.com/bluewave-labs/datahall)**: *(alpha version released)* A secure space where confidential documents can be kept and only read by people authorized to access them.
 
