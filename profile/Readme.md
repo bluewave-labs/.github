@@ -15,10 +15,6 @@ We want to be a leading foundation for open-source B2B/SaaS software, where grea
 
 * **[VerifyWise](https://github.com/bluewave-labs/verifywise)**: *(released)* An open-source AI governance platform designed to help businesses manage the power of artificial intelligence safely and responsibly. [homepage](https://verifywise.ai/)
 * **[Checkmate](https://github.com/bluewave-labs/checkmate)**: *(released)* An automated way of checking whether a service such as a website or an application is available. When service goes down during an outage (downtime), the application spots the issue and alerts the right person on the development team. [homepage](https://checkmate.so/)
-* **[Maskwise](https://github.com/bluewave-labs/maskwise)**: *(released)* Maskwise detects, redacts, masks, and anonymizes sensitive data across text, images, and structured data in training datasets for LLM systems.
-* **[Flagwise](https://github.com/bluewave-labs/flagwise)**: *(released)* Monitor, detect, and analyze security threats and Shadow AI in your LLM applications with comprehensive analytics and real-time alerting.
-* **[Evalwise](https://github.com/bluewave-labs/evalwise)**: *(development ongoing)* A developer-friendly platform for LLM evaluation and red teaming that helps test AI models for
-  safety, compliance, and performance issues.
 
 ### Graduated projects: 
 * **[Guidefox](https://github.com/bluewave-labs/guidefox)** *(released)* : An in-app tutorial platform that guides new users through an app or a tool’s user interface and key features. It features product tours, checklists, tutorials, or tooltips, which will help companies simplify their user onboarding process. [homepage](https://guidefox.io/)
@@ -31,7 +27,3 @@ Are you a developer or part of an organization that wants to create software for
 If you want your project to be incubated and to be a part of BlueWave Labs, or if you want to contribute to existing projects, you can apply on our website. Once accepted, you’ll get support from our community of developers and access to resources to help your project succeed. Whether you want to start something new or join an ongoing project, BlueWave Labs is the place to make a positive impact through software.
 
 Come and help us build software that benefits everyone, driven by collaboration and community.
-
-## License
-
-All the products are licensed under AGPLv3.
